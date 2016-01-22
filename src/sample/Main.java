@@ -18,5 +18,9 @@ public class Main {
         hashmapobj.put("Love","yourself");
         System.out.print("HashMap object output:" +hashmapobj);
 
+
+        System.out.print("HashMap object output11111:" +hashmapobj);
+
+
     }
 }
